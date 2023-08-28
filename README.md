@@ -20,7 +20,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/alok-2002/Netflix_Home_Page_Using_HTML_And_CSS.git](https://github.com/Anuraj-madd/NetFlix-Using-HTML-CSS.git)
+(https://github.com/Anuraj-madd/NetFlix-Using-HTML-CSS.git)
 ```
 
 2. Open the project in your preferred code editor.
